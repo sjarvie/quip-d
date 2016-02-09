@@ -1,0 +1,2 @@
+# quip-d
+Syncronization Daemon 
